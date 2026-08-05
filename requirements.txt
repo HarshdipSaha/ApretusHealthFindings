@@ -1,0 +1,13 @@
+transformers>=4.44.0
+torch>=2.4.0
+accelerate>=0.34.0
+peft>=0.12.0
+trl>=0.10.0
+bitsandbytes>=0.43.3
+datasets>=2.21.0
+evaluate>=0.4.2
+rouge_score
+bert_score
+scikit-learn
+tqdm
+sentencepiece
